@@ -2,9 +2,9 @@
 <h2>Frontend Developer 🎨</h2>
 
 ### Sobre mi
-- Tengo 18 años y soy de Rosario, Argentina.
+- Tengo 19 años y soy de Rosario, Argentina.
 - Soy una persona autodidacta y muy creativa. 
-- Comencé hace unos meses en la programación y estoy aprendiendo y superandome día a día.
+- Programo hace más de un año y estoy aprendiendo y superandome día a día.
 
 ### Tecnologias
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
