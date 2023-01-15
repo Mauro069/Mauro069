@@ -25,4 +25,3 @@
 <a href="https://www.linkedin.com/in/maurovera/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
 <a href="maurovera069@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-<p><img align="left" height="158" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauro069&show_icons=true&locale=en&layout=compact" alt="mauro vera" /></p>
