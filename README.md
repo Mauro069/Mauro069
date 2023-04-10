@@ -2,7 +2,7 @@
 <h2>Frontend Developer 🎨</h2>
 
 ### Sobre mi
-- Tengo 19 años y soy de Rosario, Argentina.
+- Tengo 20 años y soy de Rosario, Argentina.
 - Soy full stack developer MERN y PERN.
 - Soy una persona autodidacta y muy creativa, busco aprender y superarme día a día.
 - Me gusta trabajar con el frontend porque quiero dar la mejor experiencia visual a los usuarios que visiten mis proyectos.
