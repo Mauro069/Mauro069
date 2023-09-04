@@ -1,4 +1,4 @@
-<h1>Hello! I'm Mauro Vera <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hello! I'm Mauro Vera <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 <h2>Frontend Developer 🎨</h2>
 
 ### About Me
@@ -30,4 +30,7 @@
 <a href="https://www.tiktok.com/@devmauro_"><img alt="Tiktok" src="https://img.shields.io/badge/Dev Mauro-blue?style=flat-square&logo=tiktok"></a>  
 <a href="maurovera069@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>
+
