@@ -1,5 +1,5 @@
 <h1>Hello! I'm Mauro Vera <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Frontend Developer 🎨</h2>
+<h2>Frontend Developer 🎨 and Content Creator 📽</h2>
 
 ### About Me
 - I am 20 years old and I am from Rosario, Argentina.
