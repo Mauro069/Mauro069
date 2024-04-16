@@ -2,7 +2,7 @@
 <h2>Frontend Developer 🎨 and Content Creator 📽</h2>
 
 ### About Me
-- I am 20 years old and I am from Funes, Santa Fe, Argentina.
+- I am 21 years old and I am from Funes, Santa Fe, Argentina.
 - I am a MERN and PERN full stack developer.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
